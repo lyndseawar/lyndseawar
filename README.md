@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lyndseawar
-- 👀 I’m interested in security.
+- 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning at Stanford University.
-- 💞️ I’m looking to collaborate on projects in Rust, C++, and maybe Python?
+- 💞️ I’m looking to collaborate on projects.
 - 📬 You can contact me on GitHub!
 
 <!---
