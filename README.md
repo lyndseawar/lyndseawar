@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lyndseawar
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning at Stanford University.
+- 👀 I’m interested in infrastructure
 - 💞️ I’m looking to collaborate on projects.
-- 📬 You can contact me on GitHub!
 
 <!---
 lyndseawar/lyndseawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
